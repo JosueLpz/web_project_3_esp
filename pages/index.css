@@ -1,0 +1,7 @@
+@import url(../bloks/blocks.css);
+/* Vendor */
+@import url(../vendor/normalize.css);
+/* Body */
+@import url(../bloks/body/page.css);
+/* Main */
+@import url(../bloks/main/main.css);
