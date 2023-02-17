@@ -2,6 +2,10 @@
 /* Vendor */
 @import url(../vendor/normalize.css);
 /* Body */
-@import url(../bloks/body/page.css);
+@import url(../bloks/page/page.css);
 /* Main */
 @import url(../bloks/main/main.css);
+/* intro */
+@import url(../bloks/intro/intro.css);
+/* photo */
+@import url(../bloks/photo/ptoho.css);
