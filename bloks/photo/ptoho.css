@@ -1,9 +1,7 @@
 .photo{
-  border: solid blue 1px;
   margin: 10% auto 0 auto;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(2, 1fr);
-  grid-column: 50px;
-  grid-row: 30px;  
+  grid-template-columns: repeat(4, auto);
+  grid-template-rows: repeat(2, auto);
+  row-gap: 20px;
 }
