@@ -18,3 +18,11 @@
 /* photo */
 @import url(../bloks/photo/ptoho.css);
 @import url(../bloks/photo/__grid_card/photo__gird_card.css);
+/* places */
+@import url(../bloks/places/places.css);
+@import url(../bloks/places/__grid_container/places__grid_container.css);
+@import url(../bloks/places/__title/places__title.css);
+@import url(../bloks/places/__img/places__img.css);
+@import url(../bloks/places/__button/places__button.css);
+@import url(../bloks/places/__link/places__link.css);
+@import url(../bloks/places/__text/places__text.css);
