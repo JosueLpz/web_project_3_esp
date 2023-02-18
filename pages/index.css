@@ -1,11 +1,20 @@
-@import url(../bloks/blocks.css);
 /* Vendor */
 @import url(../vendor/normalize.css);
 /* Body */
 @import url(../bloks/page/page.css);
 /* Main */
 @import url(../bloks/main/main.css);
+@import url(../bloks/main/__logo/main__logo.css);
+@import url(../bloks/main/__lead/main__lead.css);
+@import url(../bloks/main/__title/lead__tittle.css);
+@import url(../bloks/main/__subtitle/lead__subtitle.css);
+@import url(../bloks/main/__imagen/lead__imagen.css);
 /* intro */
 @import url(../bloks/intro/intro.css);
+@import url(../bloks/intro/__title/intro__title.css);
+@import url(../bloks/intro/__subtitle/intro__subtitle.css);
+@import url(../bloks/intro/__subtitle/_text-right/subtitle_text-right.css);
+@import url(../bloks/intro/__text/intro__text.css);
 /* photo */
 @import url(../bloks/photo/ptoho.css);
+@import url(../bloks/photo/__grid_card/photo__gird_card.css);

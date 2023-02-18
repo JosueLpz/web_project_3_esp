@@ -1,0 +1,6 @@
+.main__lead{
+  display: flex;
+  flex-direction: column;
+  margin: 6% auto 0 auto;
+  width: 90%;
+}

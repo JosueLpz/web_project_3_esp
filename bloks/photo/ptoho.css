@@ -4,15 +4,6 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, 1fr);
-  /* grid-column: 50%;
-  grid-row: 50%;   */
-}
-
-.photo__gird_card{
-  border: solid red 1px;
-  border-radius: 1%;
-  grid-column: 50%;
-  grid-row: 50%;
-  width: 150px;
-  height: 150px;
+  grid-column: 50px;
+  grid-row: 30px;  
 }
