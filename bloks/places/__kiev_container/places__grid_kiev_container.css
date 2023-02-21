@@ -1,0 +1,11 @@
+.places__grid_kiev_container{
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  grid-template-rows: repeat(4, auto);
+  grid-template-areas: 
+  "title url"
+  "img text"
+  "img text"
+  "button text";
+  gap: 3% 3%;
+}

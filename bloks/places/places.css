@@ -1,5 +1,7 @@
 .places{
-  margin: 0;
-  width: 90%;
-  
+  width: 85%;
+  margin: 10% auto 0 auto;
+  display: grid;
+  grid-template-rows: repeat(6, 1fr);
+  row-gap: 5%;
 }

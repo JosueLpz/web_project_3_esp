@@ -1,0 +1,11 @@
+.footer{
+  margin: 0;
+  width: 100%;
+  background-image: url(/images/footer/__background_footer.jpg);
+  background-size: cover;
+  width: 1184px;
+  height: 740px;
+  display: flex;
+  align-items: center;
+  border-radius: 3%;
+}

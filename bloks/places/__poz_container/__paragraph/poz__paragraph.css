@@ -1,0 +1,6 @@
+.poz__paragraph{
+  margin: 0;
+  display: grid;
+  row-gap: 5%;
+  grid-area: text;
+}

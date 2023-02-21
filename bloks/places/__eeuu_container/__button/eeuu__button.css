@@ -1,0 +1,11 @@
+.eeuu__button{
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.4;
+  color: #fff;
+  max-width: 355px;
+  max-height: 48px;
+  background-color: #0278FE;
+  border-radius: 4px;
+  grid-area: button;
+}

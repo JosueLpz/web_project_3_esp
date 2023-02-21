@@ -1,5 +1,5 @@
 .photo{
-  margin: 10% auto 0 auto;
+  margin: 10% 0 0 0;
   display: grid;
   grid-template-columns: repeat(4, auto);
   grid-template-rows: repeat(2, auto);

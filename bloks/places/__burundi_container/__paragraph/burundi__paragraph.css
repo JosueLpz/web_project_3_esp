@@ -1,0 +1,6 @@
+.burundi__paragraph{
+  margin: 3% 0 0 0;
+  display: grid;
+  row-gap: 5%;
+  grid-area: text;
+}
