@@ -1,8 +1,14 @@
 .burundi__text{
   margin: 0;
-  width: 80%;
   font-size: 18px;
   font-weight: 400;
   line-height: 163%;
   color: #fff;
+}
+
+@media screen and (max-width: 769px){
+  .burundi__text{
+    font-size: 16px;
+    line-height: 130%;
+  }
 }

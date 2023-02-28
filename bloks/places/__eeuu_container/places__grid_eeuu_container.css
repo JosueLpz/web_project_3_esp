@@ -1,6 +1,6 @@
 .places__grid_eeuu_container{
   display: grid;
-  grid-template-columns: repeat(2, auto);
+  grid-template-columns: repeat(2, 50%);
   grid-template-rows: repeat(2, auto) 10%;
   row-gap: 2%;
   padding-bottom: 10%;

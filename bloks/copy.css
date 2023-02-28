@@ -1,0 +1,19 @@
+@media screen and (max-width: 769px){
+  .kiev__text{
+    font-size: 16px;
+    line-height: 130%;
+  }
+}
+
+@media screen and (max-width: 769px){
+  .kiev__title{
+    font-size: 42px;
+    max-width: 80%;
+  }
+}
+
+@media screen and (max-width: 769px){
+  .kiev__text_pading_button{
+    padding-bottom: 5%;
+  }
+}

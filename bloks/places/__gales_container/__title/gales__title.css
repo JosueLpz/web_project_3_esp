@@ -8,3 +8,10 @@
   grid-column: 1;
   grid-row: 1;
 }
+
+@media screen and (max-width: 769px){
+  .gales__title{
+    font-size: 42px;
+    max-width: 75%;
+  }
+}

@@ -1,10 +1,16 @@
 .poz__title{
   margin: 0;
-  max-width: 70%;
+  max-width: 80%;
   font-size: 72px;
   line-height: 106%;
   font-weight: 900;
   color: #fff;
   grid-column: 1;
   grid-row: 1;
+}
+
+@media screen and (max-width: 769px){
+  .poz__title{
+    font-size: 42px;
+  }
 }

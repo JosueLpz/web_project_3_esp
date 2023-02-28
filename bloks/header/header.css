@@ -2,3 +2,12 @@
   margin: 0 auto;
   max-width: 95%;
 }
+
+@media screen and (max-width: 769px){
+  .header{
+    max-width: 100%;
+  }
+  .lead__subtitle{
+    max-width: 90%;
+  }
+}

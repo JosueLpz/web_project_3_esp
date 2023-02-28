@@ -1,3 +1,9 @@
 .burundi__text_margin-button{
   padding-bottom: 6%;
 }
+
+@media screen and (max-width: 769px){
+  .burundi__text_margin-button{
+    padding-bottom: 3%;
+  }
+}

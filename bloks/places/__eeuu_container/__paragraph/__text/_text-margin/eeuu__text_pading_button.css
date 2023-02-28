@@ -1,9 +1,9 @@
-.kiev__text_pading_button{
+.eeuu__text_pading_button{
   padding-bottom: 14%;
 }
 
 @media screen and (max-width: 769px){
-  .kiev__text_pading_button{
+  .eeuu__text_pading_button{
     padding-bottom: 5%;
   }
 }

@@ -8,10 +8,10 @@
   gap: 1%;
 }
 
-/* @media screen and (max-width: 769px) { 
+@media screen and (max-width: 769px) { 
   .photo{
     margin: 0 auto;
-    width: 90%;
+    width: 95%;
     display: grid;
     grid-template-columns: repeat(2, auto);
     grid-template-rows: repeat(5, auto);
@@ -20,4 +20,4 @@
   .photo__gird_card{
     margin: 0 auto;
   }
-} */
+}
