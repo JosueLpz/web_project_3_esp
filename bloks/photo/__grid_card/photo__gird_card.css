@@ -1,5 +1,5 @@
 .photo__gird_card{
+  margin: 0;
   border-radius: 5%;
-  width: 284px;
-  height: 213px;
+  max-width: 100%;
 }

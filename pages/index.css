@@ -1,14 +1,15 @@
 /* Vendor */
 @import url(../vendor/normalize.css);
-/* Body */
-@import url(../bloks/page/page.css);
-/* Main */
-@import url(../bloks/main/main.css);
-@import url(../bloks/main/__logo/main__logo.css);
-@import url(../bloks/main/__lead/main__lead.css);
-@import url(../bloks/main/__title/lead__tittle.css);
-@import url(../bloks/main/__subtitle/lead__subtitle.css);
-@import url(../bloks/main/__imagen/lead__imagen.css);
+/* root */
+@import url(../bloks/grid_container.css);
+@import url(../root/root.css);
+/* header */
+@import url(../bloks/header/header.css);
+@import url(../bloks/header/__logo/header__logo.css);
+@import url(../bloks/header/__lead/header__lead.css);
+@import url(../bloks/header/__lead/__title/lead__tittle.css);
+@import url(../bloks/header/__lead/__subtitle/lead__subtitle.css);
+@import url(../bloks/header/__lead/__imagen/lead__imagen.css);
 /* intro */
 @import url(../bloks/intro/intro.css);
 @import url(../bloks/intro/__title/intro__title.css);
@@ -30,6 +31,7 @@
 @import url(../bloks/places/__kiev_container/__website/__artist/kiev__artist.css);
 @import url(../bloks/places/__kiev_container/__paragraph/kiev__paragraph.css);
 @import url(../bloks/places/__kiev_container/__paragraph/__text/kiev__text.css);
+@import url(../bloks/places/__kiev_container/__paragraph/__text/_text-pading/kiev__text_pading_button.css);
 /* places_gales*/
 @import url(../bloks/places/__gales_container/places__grid_gales_container.css);
 @import url(../bloks/places/__gales_container/__title/gales__title.css);
@@ -40,6 +42,7 @@
 @import url(../bloks/places/__gales_container/__website/__artist/gales__artist.css);
 @import url(../bloks/places/__gales_container/__paragraph/gales__paragraph.css);
 @import url(../bloks/places/__gales_container/__paragraph/__text/gales__text.css);
+@import url(../bloks/places/__gales_container/__paragraph/__text/_text-margin/gales__text_margin-button.css);
 /*places_eeuu*/
 @import url(../bloks/places/__eeuu_container/places__grid_eeuu_container.css);
 @import url(../bloks/places/__eeuu_container/__title/eeuu__title.css);
@@ -50,6 +53,7 @@
 @import url(../bloks/places/__eeuu_container/__website/__artist/eeuu__artist.css);
 @import url(../bloks/places/__eeuu_container/__paragraph/eeuu__paragraph.css);
 @import url(../bloks/places/__eeuu_container/__paragraph/__text/eeuu__text.css);
+@import url(../bloks/places/__eeuu_container/__paragraph/__text/_text-margin/eeuu__text_margin-button.css);
 /* places_burundi*/
 @import url(../bloks/places/__burundi_container/places__grid_burundi_container.css);
 @import url(../bloks/places/__burundi_container/__title/burundi__title.css);
@@ -60,6 +64,7 @@
 @import url(../bloks/places/__burundi_container/__website/__artist/burundi__artist.css);
 @import url(../bloks/places/__burundi_container/__paragraph/burundi__paragraph.css);
 @import url(../bloks/places/__burundi_container/__paragraph/__text/burundi__text.css);
+@import url(../bloks/places/__burundi_container/__paragraph/__text/_text-margin/burundi__text_margin-button.css);
 /* places_poz*/
 @import url(../bloks/places/__poz_container/places__grid_poz_container.css);
 @import url(../bloks/places/__poz_container/__title/poz__title.css);
@@ -70,9 +75,13 @@
 @import url(../bloks/places/__poz_container/__website/__artist/poz__artist.css);
 @import url(../bloks/places/__poz_container/__paragraph/poz__paragraph.css);
 @import url(../bloks/places/__poz_container/__paragraph/__text/poz__text.css);
+@import url(../bloks/places/__poz_container/__paragraph/__text/_text-margin/poz__text_margin-button.css);
+/* cover */
+@import url(../bloks/cover/cover.css);
+@import url(../bloks/cover/__container/cover__container.css);
+@import url(../bloks/cover/__container/__title/cover__title.css);
+@import url(../bloks/cover/__container/__subtitle/cover__subtitle.css);
+@import url(../bloks/cover/__container/__button/cover__button.css);
 /* footer */
 @import url(../bloks/footer/footer.css);
-@import url(../bloks/footer/__container/footer__container.css);
-@import url(../bloks/footer/__container/__title/footer__title.css);
-@import url(../bloks/footer/__container/__subtitle/footer__subtitle.css);
-@import url(../bloks/footer/__container/__button/footer__button.css);
+@import url(../bloks/footer/__copy/footer__copy.css);

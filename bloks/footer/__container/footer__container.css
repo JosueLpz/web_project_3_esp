@@ -1,7 +1,0 @@
-.footer__container{
-  margin: 0 auto;
-  border: 1px red solid;
-  display: flex;
-  flex-direction: column;
-  row-gap: 20px;
-}

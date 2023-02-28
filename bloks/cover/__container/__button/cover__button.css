@@ -1,8 +1,9 @@
-.footer__button{
+.cover__button{
   margin: 0 auto;
   width: 198px;
   height: 48px;
   color: #fff;
   background-color: #0278FE;
   border-radius: 4px;
+  display: block;
 }

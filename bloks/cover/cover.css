@@ -1,0 +1,10 @@
+.cover{
+  margin: 0 auto;
+  max-width: 1184px;
+  max-height: 740px;
+  padding-bottom: 30%;
+  background-image: url(/images/footer/__background_footer.jpg);
+  background-size: cover;
+  border-radius: 3%;
+  border: rebeccapurple solid 1px;
+}

@@ -1,6 +1,6 @@
 .burundi__img{
-  max-width: 460px;
-  max-width: 460px;
+  max-width: 90%;
   border-radius: 3%;
-  grid-area: img;
+  grid-row: 2;
+  grid-column: 1;
 }

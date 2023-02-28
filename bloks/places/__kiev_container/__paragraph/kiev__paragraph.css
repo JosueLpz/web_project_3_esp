@@ -1,6 +1,5 @@
 .kiev__paragraph{
   margin: 0;
-  display: grid;
-  row-gap: 5%;
-  grid-area: text;
+  grid-column: 2;
+  grid-row: 2;
 }

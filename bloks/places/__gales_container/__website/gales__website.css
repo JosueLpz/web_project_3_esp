@@ -1,5 +1,6 @@
 .gales__website{
   margin: 0;
-  grid-area: url;
+  grid-row: 1;
+  grid-column: 2;
   align-self: flex-end; 
 }

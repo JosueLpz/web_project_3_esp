@@ -1,5 +1,6 @@
 .burundi__website{
   margin: 0;
-  grid-area: url;
+  grid-column: 2;
+  grid-row: 1;
   align-self: flex-end; 
 }

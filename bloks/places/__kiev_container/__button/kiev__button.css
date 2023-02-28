@@ -1,4 +1,5 @@
-.kiev__button{
+.kiev__button{  
+  margin: 0;
   font-size: 18px;
   font-weight: 600;
   line-height: 1.4;
@@ -7,5 +8,6 @@
   max-height: 48px;
   background-color: #0278FE;
   border-radius: 4px;
-  grid-area: button;
+  grid-column: 1;
+  grid-row: 3;
 }

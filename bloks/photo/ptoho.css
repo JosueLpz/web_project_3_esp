@@ -1,7 +1,23 @@
 .photo{
-  margin: 10% 0 0 0;
+  border: blue solid 2px;
+  margin: 0;
+  max-width: 100%;
   display: grid;
-  grid-template-columns: repeat(4, auto);
-  grid-template-rows: repeat(2, auto);
-  row-gap: 20px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 1%;
 }
+
+/* @media screen and (max-width: 769px) { 
+  .photo{
+    margin: 0 auto;
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-template-rows: repeat(5, auto);
+    gap: 2% 2%;
+  }
+  .photo__gird_card{
+    margin: 0 auto;
+  }
+} */

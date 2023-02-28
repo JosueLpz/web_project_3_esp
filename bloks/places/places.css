@@ -1,7 +1,16 @@
 .places{
-  width: 85%;
-  margin: 10% auto 0 auto;
-  display: grid;
-  grid-template-rows: repeat(6, 1fr);
-  row-gap: 5%;
+  width: 95%;
+  padding-top: 10%;
+  margin: 0 auto;
+  border: red solid 1px;
 }
+
+/* @media screen and (max-width: 789px) {
+  
+  .places__grid_kiev_container{
+    display: grid;
+    grid-template-columns:  50% 50%;
+    grid-template-rows: 180px 360px 30px 330px;
+  }
+  
+} */

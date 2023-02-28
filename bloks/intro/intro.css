@@ -1,4 +1,6 @@
 .intro{
-  margin: 10% auto 0 auto;
-  width: 90%;
+  margin: 0 auto;
+  max-width: 95%;
+  padding: 7.5%;
+  border: 1px red solid;
 }

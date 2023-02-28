@@ -7,5 +7,6 @@
   max-height: 48px;
   background-color: #0278FE;
   border-radius: 4px;
-  grid-area: button;
+  grid-row: 3;
+  grid-column: 1;
 }
