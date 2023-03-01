@@ -12,6 +12,17 @@
 @media screen and (max-width: 769px){
   .gales__title{
     font-size: 42px;
-    max-width: 75%;
+    max-width: 100%;
   }
 }
+
+@media screen and (max-width: 320px) {
+.gales__title{
+  width: 95%;
+  margin-left: 2%;
+  font-size: 32px;
+  line-height: 109%;
+  grid-column: 1;
+  grid-row: 1;
+}
+  }

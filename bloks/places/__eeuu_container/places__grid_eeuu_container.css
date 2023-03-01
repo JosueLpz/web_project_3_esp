@@ -1,7 +1,22 @@
 .places__grid_eeuu_container{
+  margin: 5% 0 0 0;
   display: grid;
   grid-template-columns: repeat(2, 50%);
-  grid-template-rows: repeat(2, auto) 10%;
+  grid-template-rows: 20% 60% 10%;
   row-gap: 2%;
-  padding-bottom: 10%;
+}
+
+@media screen and (max-width: 769px) {
+.places__grid_eeuu_container{
+  grid-template-rows: 11% 60% 10%;
+}
+}
+
+@media screen and (max-width: 320px) {
+.places__grid_eeuu_container{
+  margin-top: 25%;
+  grid-template-columns: 100%;
+  grid-template-rows: repeat(4, auto) 10%;
+  row-gap: 1%;
+  }
 }

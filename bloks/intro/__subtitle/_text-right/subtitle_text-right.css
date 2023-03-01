@@ -4,3 +4,9 @@
   margin: 0;
   padding: 0;
 }
+
+@media screen and (max-width: 320px) {
+.subtitle_text-right{
+  margin: 5% 0;
+}
+}

@@ -4,3 +4,12 @@
   grid-column: 2;
   align-self: flex-end; 
 }
+
+@media screen and (max-width: 320px) {
+.gales__website{
+  margin: 0 auto;
+  width: 95%;
+  grid-column: 1;
+  grid-row: 2/3;
+}
+}

@@ -6,4 +6,5 @@
   background-color: #0278FE;
   border-radius: 4px;
   display: block;
+  transition: 0.5s linear;
 }

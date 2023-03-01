@@ -1,5 +1,7 @@
 /* Vendor */
 @import url(../vendor/normalize.css);
+/* fonts */
+@import url(../fonts/inter.css);
 /* root */
 @import url(../bloks/grid_container.css);
 @import url(../root/root.css);
@@ -21,6 +23,7 @@
 @import url(../bloks/photo/__grid_card/photo__gird_card.css);
 /* places */
 @import url(../bloks/places/places.css);
+@import url(../bloks/places/_active/place_button_hover_active.css);
 /* places_kiev */
 @import url(../bloks/places/__kiev_container/places__grid_kiev_container.css);
 @import url(../bloks/places/__kiev_container/__title/kiev__title.css);
@@ -78,10 +81,13 @@
 @import url(../bloks/places/__poz_container/__paragraph/__text/_text-margin/poz__text_margin-button.css);
 /* cover */
 @import url(../bloks/cover/cover.css);
-@import url(../bloks/cover/__container/cover__container.css);
-@import url(../bloks/cover/__container/__title/cover__title.css);
-@import url(../bloks/cover/__container/__subtitle/cover__subtitle.css);
-@import url(../bloks/cover/__container/__button/cover__button.css);
+@import url(../bloks/cover/__comtaimer_opacy/cover__container_opacy.css);
+@import url(../bloks/cover/__comtaimer_opacy/_active/opacy_hover_active.css);
+@import url(../bloks/cover/__comtaimer_opacy/__container/cover__container.css);
+@import url(../bloks/cover/__comtaimer_opacy/__container/__title/cover__title.css);
+@import url(../bloks/cover/__comtaimer_opacy/__container/__subtitle/cover__subtitle.css);
+@import url(../bloks/cover/__comtaimer_opacy/__container/__button/cover__button.css);
+@import url(../bloks/cover/__comtaimer_opacy/__container/__button/_active/button_hover_active.css);
 /* footer */
 @import url(../bloks/footer/footer.css);
 @import url(../bloks/footer/__copy/footer__copy.css);

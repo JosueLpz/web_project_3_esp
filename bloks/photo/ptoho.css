@@ -1,5 +1,4 @@
 .photo{
-  border: blue solid 2px;
   margin: 0;
   max-width: 100%;
   display: grid;
@@ -9,15 +8,23 @@
 }
 
 @media screen and (max-width: 769px) { 
-  .photo{
-    margin: 0 auto;
-    width: 95%;
-    display: grid;
-    grid-template-columns: repeat(2, auto);
-    grid-template-rows: repeat(5, auto);
-    gap: 2% 2%;
-  }
-  .photo__gird_card{
-    margin: 0 auto;
-  }
+.photo{
+  margin: 0 auto;
+  width: 95%;
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  grid-template-rows: repeat(5, auto);
+  gap: 2% 2%;
+}
+.photo__gird_card{
+  margin: 0 auto;
+}
+}
+
+@media screen and (max-width: 320px) {
+.photo{
+  grid-template-columns: auto;
+  grid-template-rows: repeat(8, auto) 80%;
+  row-gap: 0.5%;
+}
 }

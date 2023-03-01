@@ -1,5 +1,14 @@
 .kiev__paragraph{
-  margin: 0;
+  margin: 0;  
   grid-column: 2;
   grid-row: 2;
+}
+
+@media screen and (max-width: 320px){
+.kiev__paragraph{
+  margin: 0 auto;
+  width: 95%;
+  grid-column: 1;
+  grid-row: 4;
+}
 }

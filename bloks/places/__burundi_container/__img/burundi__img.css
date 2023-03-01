@@ -1,6 +1,16 @@
 .burundi__img{
+  height: 100%;
   max-width: 90%;
   border-radius: 3%;
   grid-row: 2;
   grid-column: 1;
+}
+
+@media screen and (max-width: 320px) {
+.burundi__img{
+  height: 100%;
+  max-width: 100%;
+  grid-column: 1;
+  grid-row: 3;
+  }
 }

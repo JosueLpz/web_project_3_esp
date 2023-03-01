@@ -9,4 +9,15 @@
   color: #fff;
   grid-row: 3;
   grid-column: 1;
+  transition: 0.3s linear;
 }
+
+@media screen and (max-width: 320px){
+  .gales__button{
+    margin: 0 auto;
+    width: 300px;
+    font-size: 14px;
+    grid-row: 5;
+    grid-column: 1;
+  }
+  }

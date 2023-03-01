@@ -1,6 +1,5 @@
 .eeuu__title{
   margin: 0;
-  max-width: 70%;
   font-size: 72px;
   line-height: 106%;
   font-weight: 900;
@@ -12,6 +11,17 @@
 @media screen and (max-width: 769px){
   .eeuu__title{
     font-size: 42px;
-    max-width: 80%;
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+.eeuu__title{
+  width: 95%;
+  margin-left: 2%;
+  font-size: 32px;
+  line-height: 109%;
+  grid-column: 1;
+  grid-row: 1;
   }
 }

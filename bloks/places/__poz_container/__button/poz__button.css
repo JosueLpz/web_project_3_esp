@@ -9,4 +9,15 @@
   border-radius: 4px;
   grid-column: 1;
   grid-row: 3;
+  transition: 0.3s linear;
+}
+
+@media screen and (max-width: 320px){
+.poz__button{
+  margin: 0 auto;
+  width: 300px;
+  font-size: 14px;
+  grid-row: 5;
+  grid-column: 1;
+  }
 }

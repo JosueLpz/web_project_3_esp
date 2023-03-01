@@ -1,11 +1,18 @@
 .places{
-  width: 95%;
-  padding-top: 10%;
-  margin: 0 auto;
+  width: 90%;
+  margin: 10% auto;
 }
 
 @media screen and (max-width: 769px){
   .places{
-    padding-top: 15%;
+    margin: 15% auto;
+    width: 95%;
   }
+}
+
+@media screen and (max-width: 320px) {
+.places{
+  margin: 40% auto;
+  width: 100%;
+}
 }
