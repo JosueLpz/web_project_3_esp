@@ -27,14 +27,14 @@
 /* places_kiev */
 @import url(../bloks/places/__kiev_container/places__container-kiev.css);
 @import url(../bloks/places/__kiev_container/__title/places__title-kiev.css);
-@import url(../bloks/places/__kiev_container/__img/places__img_kiev.css);
-@import url(../bloks/places/__kiev_container/__button/places__button_kiev.css);
-@import url(../bloks/places/__kiev_container/__website/places__website_kiev.css);
-@import url(../bloks/places/__kiev_container/__website/__link/places__link_kiev.css);
-@import url(../bloks/places/__kiev_container/__website/__artist/places__artist_kiev.css);
-@import url(../bloks/places/__kiev_container/__paragraph/places__paragraph_kiev.css);
-@import url(../bloks/places/__kiev_container/__paragraph/__text/places__text_kiev.css);
-@import url(../bloks/places/__kiev_container/__paragraph/__text/_text-pading/places__pading-button_kiev.css);
+@import url(../bloks/places/__kiev_container/__img/places__img-kiev.css);
+@import url(../bloks/places/__kiev_container/__button/places__button-kiev.css);
+@import url(../bloks/places/__kiev_container/__website/places__website-kiev.css);
+@import url(../bloks/places/__kiev_container/__website/__link/places__link-kiev.css);
+@import url(../bloks/places/__kiev_container/__website/__artist/places__artist-kiev.css);
+@import url(../bloks/places/__kiev_container/__paragraph/places__paragraph-kiev.css);
+@import url(../bloks/places/__kiev_container/__paragraph/__text/places__text-kiev.css);
+@import url(../bloks/places/__kiev_container/__paragraph/__text/_text-pading/places__pading_button-kiev.css);
 /* places_gales*/
 @import url(../bloks/places/__gales_container/places__grid_gales_container.css);
 @import url(../bloks/places/__gales_container/__title/gales__title.css);
