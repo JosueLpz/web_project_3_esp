@@ -1,4 +1,4 @@
-.gales__website{
+.places__website-gales{
   margin: 0;
   grid-row: 1;
   grid-column: 2;
@@ -6,7 +6,7 @@
 }
 
 @media screen and (max-width: 320px) {
-.gales__website{
+.places__website-gales{
   margin: 0 auto;
   width: 95%;
   grid-column: 1;

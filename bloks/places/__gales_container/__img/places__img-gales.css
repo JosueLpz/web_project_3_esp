@@ -1,4 +1,4 @@
-.gales__img{
+.places__img-gales{
   height: 100%;
   max-width: 90%;
   border-radius: 3%;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 320px) {
-.gales__img{
+.places__img-gales{
   height: 100%;
   max-width: 100%;
   grid-column: 1;

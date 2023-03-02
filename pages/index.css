@@ -23,7 +23,7 @@
 @import url(../bloks/photo/__card/photo__card.css);
 /* places */
 @import url(../bloks/places/places.css);
-@import url(../bloks/places/_active/place__button-hover_active.css);
+@import url(../bloks/places/_active/place_button_hover-active.css);
 /* places_kiev */
 @import url(../bloks/places/__kiev_container/places__container-kiev.css);
 @import url(../bloks/places/__kiev_container/__title/places__title-kiev.css);
@@ -34,18 +34,18 @@
 @import url(../bloks/places/__kiev_container/__website/__artist/places__artist-kiev.css);
 @import url(../bloks/places/__kiev_container/__paragraph/places__paragraph-kiev.css);
 @import url(../bloks/places/__kiev_container/__paragraph/__text/places__text-kiev.css);
-@import url(../bloks/places/__kiev_container/__paragraph/__text/_text-pading/places__pading_button-kiev.css);
+@import url(../bloks/places/__kiev_container/__paragraph/__text/_margin-kiev/places_margin-kiev.css);
 /* places_gales*/
-@import url(../bloks/places/__gales_container/places__grid_gales_container.css);
-@import url(../bloks/places/__gales_container/__title/gales__title.css);
-@import url(../bloks/places/__gales_container/__img/gales__img.css);
-@import url(../bloks/places/__gales_container/__button/gales__button.css);
-@import url(../bloks/places/__gales_container/__website/gales__website.css);
-@import url(../bloks/places/__gales_container/__website/__link/gales__link.css);
-@import url(../bloks/places/__gales_container/__website/__artist/gales__artist.css);
-@import url(../bloks/places/__gales_container/__paragraph/gales__paragraph.css);
-@import url(../bloks/places/__gales_container/__paragraph/__text/gales__text.css);
-@import url(../bloks/places/__gales_container/__paragraph/__text/_text-margin/gales__text_margin-button.css);
+@import url(../bloks/places/__gales_container/places__container-gales.css);
+@import url(../bloks/places/__gales_container/__title/places__title-gales.css);
+@import url(../bloks/places/__gales_container/__img/places__img-gales.css);
+@import url(../bloks/places/__gales_container/__button/places__button-gales.css);
+@import url(../bloks/places/__gales_container/__website/places__website-gales.css);
+@import url(../bloks/places/__gales_container/__website/__link/places__link-gales.css);
+@import url(../bloks/places/__gales_container/__website/__artist/places__artist-gales.css);
+@import url(../bloks/places/__gales_container/__paragraph/places__paragraph-gales.css);
+@import url(../bloks/places/__gales_container/__paragraph/__text/places__text-gales.css);
+@import url(../bloks/places/__gales_container/__paragraph/__text/_text-margin/gales_text-margin_button.css);
 /*places_eeuu*/
 @import url(../bloks/places/__eeuu_container/places__grid_eeuu_container.css);
 @import url(../bloks/places/__eeuu_container/__title/eeuu__title.css);

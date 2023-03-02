@@ -1,0 +1,9 @@
+.gales_text-margin_button{
+  padding-bottom: 14%;
+}
+
+@media screen and (max-width: 769px){
+.gales_text-margin_button{
+  padding-bottom: 5%;
+  }
+}
