@@ -1,4 +1,4 @@
-.eeuu__title{
+.places__title-eeuu{
   margin: 0;
   font-size: 72px;
   line-height: 106%;
@@ -9,14 +9,14 @@
 }
 
 @media screen and (max-width: 769px){
-  .eeuu__title{
+  .places__title-eeuu{
     font-size: 42px;
     max-width: 100%;
   }
 }
 
 @media screen and (max-width: 320px) {
-.eeuu__title{
+.places__title-eeuu{
   width: 95%;
   margin-left: 2%;
   font-size: 32px;

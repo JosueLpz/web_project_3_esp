@@ -1,4 +1,4 @@
-.eeuu__website{
+.places__website-eeuu{
   margin: 0;
   grid-column: 2;
   grid-row: 1;
@@ -6,7 +6,7 @@
 }
 
 @media screen and (max-width: 320px) {
-.eeuu__website{
+.places__website-eeuu{
   margin: 0 auto;
   width: 95%;
   grid-column: 1;

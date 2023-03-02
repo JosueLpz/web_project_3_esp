@@ -1,4 +1,4 @@
-.eeuu__text{
+.places__text-eeuu{
   margin: 0;
   font-size: 18px;
   font-weight: 400;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 769px){
-  .eeuu__text{
+  .places__text-eeuu{
     font-size: 16px;
     line-height: 163%;
   }

@@ -1,9 +1,9 @@
-.eeuu__text_pading_button{
+.eeuu_margin{
   padding-bottom: 14%;
 }
 
 @media screen and (max-width: 769px){
-  .eeuu__text_pading_button{
+  .eeuu_margin{
     padding-bottom: 5%;
   }
 }

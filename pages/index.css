@@ -47,16 +47,16 @@
 @import url(../bloks/places/__gales_container/__paragraph/__text/places__text-gales.css);
 @import url(../bloks/places/__gales_container/__paragraph/__text/_text-margin/gales_text-margin_button.css);
 /*places_eeuu*/
-@import url(../bloks/places/__eeuu_container/places__grid_eeuu_container.css);
-@import url(../bloks/places/__eeuu_container/__title/eeuu__title.css);
-@import url(../bloks/places/__eeuu_container/__img/eeuu__img.css);
-@import url(../bloks/places/__eeuu_container/__button/eeuu__button.css);
-@import url(../bloks/places/__eeuu_container/__website/eeuu__website.css);
-@import url(../bloks/places/__eeuu_container/__website/__link/eeuu__link.css);
-@import url(../bloks/places/__eeuu_container/__website/__artist/eeuu__artist.css);
-@import url(../bloks/places/__eeuu_container/__paragraph/eeuu__paragraph.css);
-@import url(../bloks/places/__eeuu_container/__paragraph/__text/eeuu__text.css);
-@import url(../bloks/places/__eeuu_container/__paragraph/__text/_text-margin/eeuu__text_pading_button.css);
+@import url(../bloks/places/__eeuu_container/places__container-eeuu.css);
+@import url(../bloks/places/__eeuu_container/__title/places__title-eeuu.css);
+@import url(../bloks/places/__eeuu_container/__img/places__img-eeuu.css);
+@import url(../bloks/places/__eeuu_container/__button/places__button-eeuu.css);
+@import url(../bloks/places/__eeuu_container/__website/places__website-eeuu.css);
+@import url(../bloks/places/__eeuu_container/__website/__link/places__link-eeuu.css);
+@import url(../bloks/places/__eeuu_container/__website/__artist/places__artist-eeuu.css);
+@import url(../bloks/places/__eeuu_container/__paragraph/places__paragraph-eeuu.css);
+@import url(../bloks/places/__eeuu_container/__paragraph/__text/places__text-eeuu.css);
+@import url(../bloks/places/__eeuu_container/__paragraph/__text/_text-margin/eeuu_margin.css);
 /* places_burundi*/
 @import url(../bloks/places/__burundi_container/places__grid_burundi_container.css);
 @import url(../bloks/places/__burundi_container/__title/burundi__title.css);
