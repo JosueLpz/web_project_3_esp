@@ -34,7 +34,7 @@
 @import url(../bloks/places/__kiev_container/__website/__artist/places__artist-kiev.css);
 @import url(../bloks/places/__kiev_container/__paragraph/places__paragraph-kiev.css);
 @import url(../bloks/places/__kiev_container/__paragraph/__text/places__text-kiev.css);
-@import url(../bloks/places/__kiev_container/__paragraph/__text/_margin-kiev/places_margin-kiev.css);
+@import url(../bloks/places/__kiev_container/__paragraph/__text/_margin-kiev/places__text-kiev_margin_active.css);
 /* places_gales*/
 @import url(../bloks/places/__gales_container/places__container-gales.css);
 @import url(../bloks/places/__gales_container/__title/places__title-gales.css);
@@ -45,7 +45,7 @@
 @import url(../bloks/places/__gales_container/__website/__artist/places__artist-gales.css);
 @import url(../bloks/places/__gales_container/__paragraph/places__paragraph-gales.css);
 @import url(../bloks/places/__gales_container/__paragraph/__text/places__text-gales.css);
-@import url(../bloks/places/__gales_container/__paragraph/__text/_text-margin/gales_text-margin_button.css);
+@import url(../bloks/places/__gales_container/__paragraph/__text/_text-margin/places__text-gales_margin_active.css);
 /*places_eeuu*/
 @import url(../bloks/places/__eeuu_container/places__container-eeuu.css);
 @import url(../bloks/places/__eeuu_container/__title/places__title-eeuu.css);
