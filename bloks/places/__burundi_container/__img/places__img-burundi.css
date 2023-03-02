@@ -1,4 +1,4 @@
-.burundi__img{
+.places__img-burundi{
   height: 100%;
   max-width: 90%;
   border-radius: 3%;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 320px) {
-.burundi__img{
+.places__img-burundi{
   height: 100%;
   max-width: 100%;
   grid-column: 1;

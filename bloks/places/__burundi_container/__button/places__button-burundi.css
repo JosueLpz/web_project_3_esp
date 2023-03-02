@@ -1,4 +1,4 @@
-.burundi__button{
+.places__button-burundi{
   font-size: 18px;
   font-weight: 600;
   line-height: 1.4;
@@ -13,7 +13,7 @@
 }
 
 @media screen and (max-width: 320px){
-.burundi__button{
+.places__button-burundi{
   margin: 0 auto;
   width: 300px;
   font-size: 14px;

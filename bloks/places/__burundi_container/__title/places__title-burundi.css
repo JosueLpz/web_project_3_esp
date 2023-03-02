@@ -1,4 +1,4 @@
-.burundi__title{
+.places__title-burundi{
   margin: 0;
   max-width: 60%;
   font-size: 72px;
@@ -10,14 +10,14 @@
 }
 
 @media screen and (max-width: 769px){
-  .burundi__title{
-    font-size: 42px;
-    max-width: 80%;
+.places__title-burundi{
+  font-size: 42px;
+  max-width: 80%;
   }
 }
 
 @media screen and (max-width: 320px) {
-.burundi__title{
+.places__title-burundi{
   width: 95%;
   margin-left: 2%;
   font-size: 32px;
