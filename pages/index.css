@@ -23,7 +23,7 @@
 @import url(../bloks/photo/__card/photo__card.css);
 /* places */
 @import url(../bloks/places/places.css);
-@import url(../bloks/places/_active/place_button_hover-active.css);
+@import url(../bloks/places/_active/places__button-active-hover.css);
 /* places_kiev */
 @import url(../bloks/places/__kiev_container/places__container-kiev.css);
 @import url(../bloks/places/__kiev_container/__title/places__title-kiev.css);
