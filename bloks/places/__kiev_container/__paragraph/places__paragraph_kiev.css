@@ -1,11 +1,11 @@
-.places__kiev_paragraph{
+.places__paragraph_kiev{
   margin: 0;
   grid-column: 2;
   grid-row: 2;
 }
 
 @media screen and (max-width: 320px){
-.places__kiev_paragraph{
+.places__paragraph_kiev{
   margin: 0 auto;
   width: 95%;
   grid-column: 1;

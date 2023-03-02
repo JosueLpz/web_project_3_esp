@@ -1,9 +1,9 @@
-.places__kiev_pading-button{
+.places__pading-button_kiev{
   padding-bottom: 14%;
 }
 
 @media screen and (max-width: 769px){
-.places__kiev_pading-button{
+.places__pading-button_kiev{
   padding-bottom: 5%;
   }
 }

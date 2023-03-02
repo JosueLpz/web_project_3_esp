@@ -1,4 +1,4 @@
-.places__kiev_title{
+.places__title_kiev{
   margin: 0;
   max-width: 60%;
   font-size: 72px;
@@ -10,14 +10,14 @@
 }
 
 @media screen and (max-width: 769px){
-  .places__kiev_title{
+  .places__title_kiev{
     font-size: 42px;
     max-width: 80%;
   }
 }
 
 @media screen and (max-width: 320px) {
-.places__kiev_title{
+.places__title_kiev{
   margin-left: 2%;
   width: 95%;
   font-size: 32px;

@@ -1,4 +1,4 @@
-.places__kiev_text{
+.places__text_kiev{
   margin: 0;
   font-size: 18px;
   font-weight: 400;
@@ -7,8 +7,8 @@
 }
 
 @media screen and (max-width: 769px){
-  .places__kiev_text{
-    font-size: 16px;
-    line-height: 163%;
+.places__text_kiev{
+  font-size: 16px;
+  line-height: 163%;
   }
 }
