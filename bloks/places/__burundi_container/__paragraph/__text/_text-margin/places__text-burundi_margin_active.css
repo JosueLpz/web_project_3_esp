@@ -1,9 +1,9 @@
-.text_margin-burundi{
+.places__text-burundi_margin_active{
   padding-bottom: 6%;
 }
 
 @media screen and (max-width: 769px){
-.text_margin-burundi{
+.places__text-burundi_margin_active{
   padding-bottom: 3%;
 }
 }

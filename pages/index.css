@@ -56,7 +56,7 @@
 @import url(../bloks/places/__eeuu_container/__website/__artist/places__artist-eeuu.css);
 @import url(../bloks/places/__eeuu_container/__paragraph/places__paragraph-eeuu.css);
 @import url(../bloks/places/__eeuu_container/__paragraph/__text/places__text-eeuu.css);
-@import url(../bloks/places/__eeuu_container/__paragraph/__text/_text-margin/eeuu_margin.css);
+@import url(../bloks/places/__eeuu_container/__paragraph/__text/_text-margin/places__text-eeuu_margin_active.css);
 /* places_burundi*/
 @import url(../bloks/places/__burundi_container/places__container-burundi.css);
 @import url(../bloks/places/__burundi_container/__title/places__title-burundi.css);
@@ -67,7 +67,7 @@
 @import url(../bloks/places/__burundi_container/__website/__artist/places__artist-burundi.css);
 @import url(../bloks/places/__burundi_container/__paragraph/places__paragraph-burundi.css);
 @import url(../bloks/places/__burundi_container/__paragraph/__text/places__text-burundi.css);
-@import url(../bloks/places/__burundi_container/__paragraph/__text/_text-margin/text_margin-burundi.css);
+@import url(../bloks/places/__burundi_container/__paragraph/__text/_text-margin/places__text-burundi_margin_active.css);
 /* places_poz*/
 @import url(../bloks/places/__poz_container/places__container-poz.css);
 @import url(../bloks/places/__poz_container/__title/places__title-poz.css);
