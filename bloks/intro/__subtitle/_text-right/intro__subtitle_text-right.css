@@ -1,4 +1,4 @@
-.subtitle_text-right{
+.intro__subtitle_text-right{
   text-align: right;
   line-height: 0.1%;
   margin: 0;
@@ -6,7 +6,7 @@
 }
 
 @media screen and (max-width: 320px) {
-.subtitle_text-right{
+.intro__subtitle_text-right{
   margin: 5% 0;
 }
 }

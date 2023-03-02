@@ -1,4 +1,4 @@
-.kiev__website{
+.places__kiev_website{
   margin: 0;
   grid-row: 1;
   grid-column: 2;
@@ -6,7 +6,7 @@
 }
 
 @media screen and (max-width: 320px) {
-.kiev__website{
+.places__kiev_website{
   margin: 0 auto;
   width: 95%;
   grid-column: 1;

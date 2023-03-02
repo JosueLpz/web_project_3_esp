@@ -1,4 +1,4 @@
-.kiev__button{  
+.places__kiev_button{  
   margin: 0;
   font-size: 18px;
   font-weight: 600;
@@ -14,7 +14,7 @@
 }
 
 @media screen and (max-width: 320px){
-.kiev__button{
+.places__kiev_button{
   margin: 0 auto;
   width: 300px;
   font-size: 14px;
