@@ -1,4 +1,4 @@
-.poz__button{
+.places__button-poz{
   font-size: 18px;
   font-weight: 600;
   line-height: 1.4;
@@ -13,7 +13,7 @@
 }
 
 @media screen and (max-width: 320px){
-.poz__button{
+.places__button-poz{
   margin: 0 auto;
   width: 300px;
   font-size: 14px;

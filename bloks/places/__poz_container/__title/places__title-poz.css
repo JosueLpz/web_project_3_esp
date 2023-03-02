@@ -1,4 +1,4 @@
-.poz__title{
+.places__title-poz{
   margin: 0;
   max-width: 90%;
   font-size: 72px;
@@ -10,14 +10,14 @@
 }
 
 @media screen and (max-width: 769px){
-  .poz__title{
-    font-size: 42px;
-  }
+.places__title-poz{
+  font-size: 42px;
 }
+  }
 
 
 @media screen and (max-width: 320px) {
-.poz__title{
+.places__title-poz{
   width: 95%;
   margin-left: 2%;
   font-size: 32px;

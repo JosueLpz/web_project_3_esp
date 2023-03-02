@@ -1,4 +1,4 @@
-.poz__img{
+.places__img-poz{
   height: 100%;
   max-width: 90%;
   border-radius: 3%;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 320px) {
-.poz__img{
+.places__img-poz{
   height: 100%;
   max-width: 100%;
   grid-column: 1;
