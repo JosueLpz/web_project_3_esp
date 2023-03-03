@@ -5,10 +5,10 @@
   background-image: url(/images/footer/__background_footer.jpg);
   background-size: cover;
   border-radius: 3%;
-}
+} 
 
 @media screen and (max-width: 320px) {
-  .cover{
-    height: 245px;
+.cover{
+  height: 245px;
   }
 }
