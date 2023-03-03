@@ -1,4 +1,4 @@
-.cover__container_title{
+.cover__title{
   margin: 0 auto;
   font-size: 72px;
   font-weight: 900;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 320px) {
-.cover__container_title{
+.cover__title{
   font-size: 32px;
   } 
 }

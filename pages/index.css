@@ -83,10 +83,10 @@
 @import url(../bloks/cover/cover.css);
 @import url(../bloks/cover/__comtaimer/cover__container.css);
 @import url(../bloks/cover/__comtaimer/_active/cover__container_opacy_hover_active.css);
-@import url(../bloks/cover/__comtaimer/__title/cover__container_title.css);
-@import url(../bloks/cover/__comtaimer/__subtitle/cover__container_subtitle.css);
-@import url(../bloks/cover/__comtaimer/__button/cove__containerr_button.css);
-@import url(../bloks/cover/__comtaimer/__button/_active/cover__container_button_hover_active.css);
+@import url(../bloks/cover/__comtaimer/__title/cover__title.css);
+@import url(../bloks/cover/__comtaimer/__subtitle/container__subtitle.css);
+@import url(../bloks/cover/__comtaimer/__button/cover__button.css);
+@import url(../bloks/cover/__comtaimer/__button/_active/cover_button_active-hover.css);
 /* footer */
 @import url(../bloks/footer/footer.css);
 @import url(../bloks/footer/__copy/footer__copy.css);
