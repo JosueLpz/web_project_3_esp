@@ -86,7 +86,7 @@
 @import url(../bloks/cover/__comtainer/__title/cover__title.css);
 @import url(../bloks/cover/__comtainer/__subtitle/cover__subtitle.css);
 @import url(../bloks/cover/__comtainer/__button/cover__button.css);
-@import url(../bloks/cover/__comtainer/__button/_active/cover_button_hover_active.css);
+@import url(../bloks/cover/__comtainer/__button/_active/cover__button-active-hover.css);
 /* footer */
 @import url(../bloks/footer/footer.css);
 @import url(../bloks/footer/__copy/footer__copy.css);
