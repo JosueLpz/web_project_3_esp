@@ -2,7 +2,7 @@
   margin: 0 auto;
   max-width: 100%;
   height: 740px;
-  background-image: url(/images/footer/__background_footer.jpg);
+  background-image: url(../cover/__comtainer/_active/__background_cover.jpg);
   background-size: cover;
   border-radius: 3%;
 } 
