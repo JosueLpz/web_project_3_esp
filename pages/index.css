@@ -23,10 +23,10 @@
 @import url(../bloks/places/places.css);
 @import url(../bloks/places/_active/places__button-active-hover.css);
 /* places_kiev */
-@import url(../bloks/places/__kiev_container/places__container-kiev.css);
-@import url(../bloks/places/__kiev_container/__title/places__title-kiev.css);
-@import url(../bloks/places/__kiev_container/__img/places__img-kiev.css);
-@import url(../bloks/places/__kiev_container/__button/places__button-kiev.css);
+@import url(../bloks/places/__kiev_container/places__container.css);
+@import url(../bloks/places/__kiev_container/__title/places__title.css);
+@import url(../bloks/places/__kiev_container/__img/places__img.css);
+@import url(../bloks/places/__kiev_container/__button/places__button.css);
 @import url(../bloks/places/__kiev_container/__website/places__website-kiev.css);
 @import url(../bloks/places/__kiev_container/__website/__link/places__link-kiev.css);
 @import url(../bloks/places/__kiev_container/__website/__artist/places__artist-kiev.css);

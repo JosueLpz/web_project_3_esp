@@ -1,20 +1,22 @@
-.places__button-kiev{  
+.places__button{  
   margin: 0;
   font-size: 18px;
   font-weight: 600;
   line-height: 48px;
   color: #fff;
-  max-width: 355px;
-  max-height: 48px;
+  width: 355px;
+  height: 48px;
   background-color: #0278FE;
   border-radius: 4px;
   grid-column: 1;
   grid-row: 3;
+  gap: 10px;
   transition: 0.3s linear;
+  text-align: center
 }
 
 @media screen and (max-width: 320px){
-.places__button-kiev{
+.places__button{
   margin: 0 auto;
   width: 300px;
   font-size: 14px;
