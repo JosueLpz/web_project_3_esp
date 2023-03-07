@@ -1,11 +1,17 @@
 .cover{
-  margin: 0 auto;
+  margin: 5% auto 0 auto;
   max-width: 100%;
   height: 740px;
   background-image: url(../cover/__comtainer/_active/__background_cover.jpg);
   background-size: cover;
   border-radius: 3%;
 } 
+
+@media screen and (max-width: 649px) {
+  .cover{
+    height: 540px;
+    }
+  }
 
 @media screen and (max-width: 320px) {
 .cover{

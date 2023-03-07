@@ -1,13 +1,19 @@
 .places__paragraph{
-  margin: 0;
-  grid-column: 2;
-  grid-row: 2;
+  margin: 1% auto;
+  grid-area: tex;
 }
+
+@media screen and (max-width: 649px){
+  .places__paragraph{
+    width: 95%;
+    margin: 1% auto;
+    order: 4;
+  }
+  }
 
 @media screen and (max-width: 320px){
 .places__paragraph{
   margin: 0 auto;
-  width: 95%;
   grid-column: 1;
   grid-row: 4;
 }

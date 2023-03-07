@@ -8,19 +8,29 @@
   height: 48px;
   background-color: #0278FE;
   border-radius: 4px;
-  grid-column: 1;
-  grid-row: 3;
+  grid-area: buttom;
   gap: 10px;
   transition: 0.3s linear;
   text-align: center
 }
 
+@media screen and (max-width: 649px){
+  .places__button{
+    margin: 1% auto;
+    order: 5;
+  }
+  }
+
+  @media screen and (max-width: 359px){
+    .places__button{
+      width: 325px;
+      font-size: 14px;
+
+    }
+    }
+
 @media screen and (max-width: 320px){
 .places__button{
-  margin: 0 auto;
   width: 300px;
-  font-size: 14px;
-  grid-row: 5;
-  grid-column: 1;
 }
 }

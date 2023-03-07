@@ -33,7 +33,7 @@
 @import url(../bloks/places/__container/__paragraph/places__paragraph.css);
 @import url(../bloks/places/__container/__paragraph/__text/places__text.css);
 @import url(../bloks/places/__container/__paragraph/__text/_margin/places__text_margin_active.css);
-
+@import url(../bloks/places/_active/places__margin_active.css);
 /* cover */
 @import url(../bloks/cover/cover.css);
 @import url(../bloks/cover/__comtainer/cover__container.css);

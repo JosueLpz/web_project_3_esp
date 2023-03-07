@@ -1,9 +1,15 @@
 .places__text_margin_active{
-  padding-bottom: 14%;
+  margin-bottom: 10%;
 }
+
+@media screen and (max-width: 876px){
+  .places__text_margin_active{
+    margin-bottom: 3%;
+    }
+  }
 
 @media screen and (max-width: 769px){
 .places__text_margin_active{
-  padding-bottom: 5%;
+  margin-bottom: 5%;
   }
 }

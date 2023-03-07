@@ -1,0 +1,15 @@
+.places__margin_active{
+  margin-bottom: 50%;
+}
+
+@media screen and (max-width:710px) {
+.places__margin_active{
+  margin-bottom: 70%;
+  }  
+}
+
+@media screen and (max-width:649px) {
+  .places__margin_active{
+    margin-bottom: 0;
+    }  
+}
